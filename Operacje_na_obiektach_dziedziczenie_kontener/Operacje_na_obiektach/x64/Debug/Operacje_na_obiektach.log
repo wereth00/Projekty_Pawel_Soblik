@@ -1,0 +1,6 @@
+﻿  CKontener.cpp
+  CTrojkatProst.cpp
+  Operacje_na_obiektach.cpp
+C:\Users\bb\Desktop\Operacje_na_obiektach\Operacje_na_obiektach\Operacje_na_obiektach.cpp(20,32): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Operacje_na_obiektach.vcxproj -> C:\Users\bb\Desktop\Operacje_na_obiektach\x64\Debug\Operacje_na_obiektach.exe
